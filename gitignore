@@ -1,0 +1,87 @@
+# OS specific files
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+._*
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.env.local
+.env.*.local
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE specific
+.vscode/settings.json
+.vscode/extensions.json
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+.~*
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# macOS specific
+.AppleDouble
+.LSOverride
+.TemporaryItems
+
+# Windows specific
+desktop.ini
+
+# Sensitive information
+.secrets/
+secrets.json
+config.local.json
+private/
+
+# Generated files
+.cache/
+*.cache
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Archive backups
+*.zip.bak
+*.tar.gz.bak
+
+# Lock files (optional - uncomment if needed)
+# package-lock.json
+# poetry.lock

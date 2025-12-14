@@ -1,0 +1,290 @@
+{
+  "version": "1.0",
+  "date": "2025-12-14",
+  "currency": "USD",
+  "total_tools": 20,
+  "categories": {
+    "Voice AI": [
+      {
+        "name": "OpenAI Whisper",
+        "price": "$0.02/minute",
+        "category": "Voice Processing",
+        "roi": "300%+",
+        "link": "https://openai.com/research/whisper",
+        "description": "Speech-to-text conversion with 99.9% accuracy",
+        "setup_time": "1-2 days",
+        "pros": ["Accuracy", "Affordable", "API available"],
+        "cons": ["Rate limiting", "Queue delays"]
+      },
+      {
+        "name": "Twilio",
+        "price": "$1-10/month basic",
+        "category": "Voice Integration",
+        "roi": "300%+",
+        "link": "https://twilio.com",
+        "description": "Phone/SMS integration for restaurants",
+        "setup_time": "2-3 days",
+        "pros": ["Easy integration", "Reliable", "Support"],
+        "cons": ["Per-minute charges", "Setup complexity"]
+      }
+    ],
+    "Photo AI": [
+      {
+        "name": "Stable Diffusion",
+        "price": "$0",
+        "category": "Image Generation",
+        "roi": "1800%+",
+        "link": "https://stability.ai",
+        "description": "Open-source image generation model",
+        "setup_time": "1 day",
+        "pros": ["Free", "Powerful", "Open source"],
+        "cons": ["Requires GPU", "Setup complexity"]
+      },
+      {
+        "name": "Leonardo.AI",
+        "price": "$10-30/month",
+        "category": "Image Enhancement",
+        "roi": "1800%+",
+        "link": "https://leonardo.ai",
+        "description": "AI-powered photo enhancement for food/property",
+        "setup_time": "1 day",
+        "pros": ["Easy UI", "Fast", "Good quality"],
+        "cons": ["Subscription", "Limits on free"]
+      },
+      {
+        "name": "DoorDash API",
+        "price": "$0",
+        "category": "Integration",
+        "roi": "1800%+",
+        "link": "https://developer.doordash.com",
+        "description": "Connect to DoorDash for menu photos",
+        "setup_time": "3-5 days",
+        "pros": ["Free", "Direct integration", "Large base"],
+        "cons": ["Limited API", "Rate limits"]
+      }
+    ],
+    "Inventory Forecast": [
+      {
+        "name": "Meta Prophet",
+        "price": "$0",
+        "category": "Forecasting",
+        "roi": "100-200%",
+        "link": "https://facebook.com/research/tools",
+        "description": "Time series forecasting for demand prediction",
+        "setup_time": "2-3 weeks",
+        "pros": ["Accurate", "Free", "Battle-tested"],
+        "cons": ["Requires data", "Learning curve"]
+      },
+      {
+        "name": "TensorFlow",
+        "price": "$0",
+        "category": "ML Framework",
+        "roi": "100-200%",
+        "link": "https://tensorflow.org",
+        "description": "Machine learning framework for custom models",
+        "setup_time": "3-4 weeks",
+        "pros": ["Powerful", "Free", "Community"],
+        "cons": ["Complex", "Requires expertise"]
+      }
+    ],
+    "Crew Scheduling": [
+      {
+        "name": "n8n",
+        "price": "$5-50/month",
+        "category": "Automation",
+        "roi": "300%+",
+        "link": "https://n8n.io",
+        "description": "Workflow automation for scheduling and notifications",
+        "setup_time": "2-3 days",
+        "pros": ["Affordable", "Easy", "Visual editor"],
+        "cons": ["Limitations on free", "Self-hosted needed"]
+      },
+      {
+        "name": "HubSpot",
+        "price": "Free-$50/month",
+        "category": "CRM",
+        "roi": "150%+",
+        "link": "https://hubspot.com",
+        "description": "CRM with scheduling and automation",
+        "setup_time": "3-5 days",
+        "pros": ["Free tier", "Easy", "Good support"],
+        "cons": ["Limited automation on free", "Expensive pro"]
+      }
+    ],
+    "Vibe Coding": [
+      {
+        "name": "Cursor IDE",
+        "price": "$20/month",
+        "category": "Development",
+        "roi": "400%+",
+        "link": "https://cursor.com",
+        "description": "AI-powered code editor with Claude integration",
+        "setup_time": "1 day",
+        "pros": ["Fast", "AI-powered", "Great UX"],
+        "cons": ["Subscription", "Learning curve"]
+      },
+      {
+        "name": "Claude API",
+        "price": "$0.003-0.06 per 1K tokens",
+        "category": "AI API",
+        "roi": "300%+",
+        "link": "https://claude.ai/api",
+        "description": "LLM API for personalization and recommendations",
+        "setup_time": "1-2 days",
+        "pros": ["Powerful", "Accurate", "Affordable"],
+        "cons": ["API limits", "Token counting"]
+      },
+      {
+        "name": "React",
+        "price": "$0",
+        "category": "Frontend",
+        "roi": "400%+",
+        "link": "https://react.dev",
+        "description": "JavaScript library for interactive UIs",
+        "setup_time": "2-3 days",
+        "pros": ["Free", "Popular", "Ecosystem"],
+        "cons": ["Learning curve", "Maintenance"]
+      }
+    ],
+    "VR Tours": [
+      {
+        "name": "Matterport",
+        "price": "$250 one-time + $15/month",
+        "category": "3D Scanning",
+        "roi": "500%+",
+        "link": "https://matterport.com",
+        "description": "Professional 3D virtual tours for properties",
+        "setup_time": "1-2 days",
+        "pros": ["Professional", "Easy", "Popular"],
+        "cons": ["One-time cost", "Monthly fee"]
+      },
+      {
+        "name": "Spline",
+        "price": "Free-$30/month",
+        "category": "3D Design",
+        "roi": "500%+",
+        "link": "https://spline.design",
+        "description": "3D web design and visualization",
+        "setup_time": "2-3 days",
+        "pros": ["Easy UI", "Free tier", "Web-based"],
+        "cons": ["Limited free", "Learning curve"]
+      },
+      {
+        "name": "Vercel",
+        "price": "$5-50/month",
+        "category": "Hosting",
+        "roi": "300%+",
+        "link": "https://vercel.com",
+        "description": "Deploy 3D tours and web apps",
+        "setup_time": "1 day",
+        "pros": ["Fast", "Affordable", "Git integration"],
+        "cons": ["Limits on free", "Regional pricing"]
+      }
+    ],
+    "CRM Workflows": [
+      {
+        "name": "Pipedrive",
+        "price": "$12-99/month",
+        "category": "CRM",
+        "roi": "150-250%",
+        "link": "https://pipedrive.com",
+        "description": "Sales CRM with custom pipelines",
+        "setup_time": "3-5 days",
+        "pros": ["Affordable", "Easy", "Visual"],
+        "cons": ["Limited free", "Customization costs"]
+      },
+      {
+        "name": "Make (formerly Integromat)",
+        "price": "$9-299/month",
+        "category": "Automation",
+        "roi": "300%+",
+        "link": "https://make.com",
+        "description": "Advanced workflow automation and integration",
+        "setup_time": "2-3 days",
+        "pros": ["Powerful", "Many integrations", "Visual"],
+        "cons": ["Complex", "Expensive pro", "Learning curve"]
+      }
+    ],
+    "Content Generation": [
+      {
+        "name": "ChatGPT",
+        "price": "Free-$20/month",
+        "category": "LLM",
+        "roi": "400%+",
+        "link": "https://openai.com/chatgpt",
+        "description": "Content writing and ideation",
+        "setup_time": "1 day",
+        "pros": ["Easy", "Free tier", "Powerful"],
+        "cons": ["Limited context", "Quality varies"]
+      },
+      {
+        "name": "NotebookLM",
+        "price": "$0",
+        "category": "Research Tool",
+        "roi": "400%+",
+        "link": "https://notebooklm.google.com",
+        "description": "AI research assistant for content creation",
+        "setup_time": "1 day",
+        "pros": ["Free", "Research-focused", "Document support"],
+        "cons": ["New tool", "Limited features"]
+      }
+    ],
+    "General Infrastructure": [
+      {
+        "name": "GitHub",
+        "price": "Free-$21/month",
+        "category": "Version Control",
+        "roi": "200%+",
+        "link": "https://github.com",
+        "description": "Code hosting and collaboration",
+        "setup_time": "1 day",
+        "pros": ["Free", "Industry standard", "Great UI"],
+        "cons": ["Limited on free", "Learning curve"]
+      },
+      {
+        "name": "Docker",
+        "price": "$0-30/month",
+        "category": "Containerization",
+        "roi": "300%+",
+        "link": "https://docker.com",
+        "description": "Containerize and deploy applications",
+        "setup_time": "2-3 days",
+        "pros": ["Powerful", "Free", "Industry standard"],
+        "cons": ["Steep learning curve", "Resource heavy"]
+      }
+    ]
+  },
+  "quick_setup_stack": {
+    "description": "Минимальный набор для старта (1-2 недели)",
+    "cost": "$150-300/месяц",
+    "tools": [
+      "Stable Diffusion (Photo AI) - FREE",
+      "Claude API (Personalization) - $20",
+      "n8n (Automation) - $5",
+      "Vercel (Hosting) - $5",
+      "NotebookLM (Content) - FREE",
+      "Meta Prophet (Forecasting) - FREE"
+    ]
+  },
+  "full_stack": {
+    "description": "Полный набор для 8 модулей",
+    "cost": "$500-1500/месяц",
+    "tools": [
+      "OpenAI Whisper",
+      "Twilio",
+      "Stable Diffusion + Leonardo.AI",
+      "Meta Prophet + TensorFlow",
+      "n8n + HubSpot",
+      "Cursor IDE + Claude API + React",
+      "Matterport + Spline + Vercel",
+      "ChatGPT + NotebookLM",
+      "GitHub + Docker"
+    ]
+  },
+  "roi_summary": {
+    "quick_setup_monthly_roi": "$3000-5000/месяц",
+    "full_stack_monthly_roi": "$10000-20000/месяц",
+    "breakeven_time": "2-4 недели",
+    "recommendation": "Начни с quick_setup, добавляй инструменты по мере роста"
+  }
+}
