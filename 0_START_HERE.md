@@ -9,23 +9,24 @@
 ## 🎯 ВЫБЕРИ СВОЙ ПУТЬ
 
 ### 🟢 У ТЕБЯ ЕСТЬ 5 МИНУТ?
-→ Открой: [1_EXECUTIVE_SUMMARY.md](1_EXECUTIVE_SUMMARY.md)
+→ Открой: [`DOCS/exec_summary_horeca_realest.md`](DOCS/exec_summary_horeca_realest.md)
 - Главные находки
 - Матрица 8 модулей
 - План на 90 дней
 - **ГОТОВО в 10-15 мин**
 
 ### 🟡 У ТЕБЯ ЕСТЬ 30 МИНУТ?
-→ Открой: [2_INTEGRATED_ANALYSIS.md](2_INTEGRATED_ANALYSIS.md)
+→ Открой: [`DOCS/integrated_analysis_2025.md`](DOCS/integrated_analysis_2025.md)
 - Всё про каждый модуль
 - Инструменты и ROI
 - Практические примеры
 - **ГОТОВО в 30-40 мин**
 
 ### 🟠 У ТЕБЯ ЕСТЬ 1.5-2 ЧАСА?
-→ Открой: [3_OPERATIONS_LAYER.md](3_OPERATIONS_LAYER.md)
+→ Для ресторана: [`DOCS/no_fluff_operations.md`](DOCS/no_fluff_operations.md)  
+→ Для недвижимости: [`DOCS/integrated_analysis_2025.md`](DOCS/integrated_analysis_2025.md) (разделы #6–#8)  
 - Максимально детально
-- 5 модулей для HoReCa
+- 5 модулей для HoReCa + практический чек‑лист
 - Чек-листы и примеры
 - **ГОТОВО в 40-50 мин**
 
@@ -52,14 +53,14 @@
 - #4 Crew Scheduling → 4-5 недель
 - #7 CRM + Workflows → 3-4 недели
 
-→ Посмотри: [RESOURCES/8_MODULES_ROI_MATRIX.csv](../RESOURCES/8_MODULES_ROI_MATRIX.csv)
+→ Посмотри: [`RESOURCES/8_MODULES_ROI_MATRIX.csv`](RESOURCES/8_MODULES_ROI_MATRIX.csv)
 
 ---
 
 ## 🛠️ ИНСТРУМЕНТЫ И ЦЕНЫ
 
 Полный список 20 инструментов:
-→ Открой: [RESOURCES/TOOLS_STACK.json](../RESOURCES/TOOLS_STACK.json)
+→ Открой: [`RESOURCES/TOOLS_STACK.json`](RESOURCES/TOOLS_STACK.json)
 
 **Quick Setup (начни сегодня):** $150-300/месяц
 **Full Stack (все модули):** $500-1500/месяц
@@ -68,7 +69,8 @@
 
 ## 📍 ТЫ ВЛАДЕЛЕЦ РЕСТОРАНА?
 
-→ Смотри: [QUICK_START/90_DAYS_RESTAURANT.md](../../QUICK_START/90_DAYS_RESTAURANT.md)
+→ Смотри: [`START_RESTAURANT.md`](START_RESTAURANT.md)  
+или сразу план: [`QUICK_START/90_DAYS_RESTAURANT.md`](QUICK_START/90_DAYS_RESTAURANT.md)
 - Пошаговый план на 90 дней
 - Фокус на денежные проблемы
 - Реальные примеры (Starbucks, McDonald's)
@@ -77,7 +79,8 @@
 
 ## 🏠 ТЫ РИЭЛТОР ИЛИ ДЕВЕЛОПЕР?
 
-→ Смотри: [QUICK_START/90_DAYS_REALTOR.md](../../QUICK_START/90_DAYS_REALTOR.md)
+→ Смотри: [`START_REALESTATE.md`](START_REALESTATE.md)  
+или сразу план: [`QUICK_START/90_DAYS_REALTOR.md`](QUICK_START/90_DAYS_REALTOR.md)
 - Пошаговый план на 90 дней
 - VR туры, Virtual staging
 - Примеры (Zillow, Matterport)
@@ -86,7 +89,7 @@
 
 ## 🚨 ТЫ ХОЧЕШЬ ИЗБЕЖАТЬ ОШИБОК?
 
-→ Читай: [CASE_STUDIES/FAILCASES.md](../../CASE_STUDIES/FAILCASES.md)
+→ Читай: [`CASE_STUDIES/FAILCASES.md`](CASE_STUDIES/FAILCASES.md)
 - 5 провальных проектов
 - Что пошло не так?
 - Как это избежать
@@ -97,17 +100,18 @@
 
 | Что искать | Где найти |
 |-----------|-----------|
-| **Главные находки** | [1_EXECUTIVE_SUMMARY.md](1_EXECUTIVE_SUMMARY.md) |
-| **Всё про модули** | [2_INTEGRATED_ANALYSIS.md](2_INTEGRATED_ANALYSIS.md) |
-| **HoReCa детально** | [3_OPERATIONS_LAYER.md](3_OPERATIONS_LAYER.md) |
-| **Помощь по репо** | [4_NAVIGATION_GUIDE.md](4_NAVIGATION_GUIDE.md) |
-| **Модули (ROI)** | [RESOURCES/8_MODULES_ROI_MATRIX.csv](../RESOURCES/8_MODULES_ROI_MATRIX.csv) |
-| **Инструменты** | [RESOURCES/TOOLS_STACK.json](../RESOURCES/TOOLS_STACK.json) |
-| **План ресторана** | [QUICK_START/90_DAYS_RESTAURANT.md](../../QUICK_START/90_DAYS_RESTAURANT.md) |
-| **План недвижимости** | [QUICK_START/90_DAYS_REALTOR.md](../../QUICK_START/90_DAYS_REALTOR.md) |
-| **Кейсы компаний** | [CASE_STUDIES/](../../CASE_STUDIES/) папка |
-| **Ошибки других** | [CASE_STUDIES/FAILCASES.md](../../CASE_STUDIES/FAILCASES.md) |
-| **Исходное исследование** | [5_SOURCE_RESEARCH.docx](5_SOURCE_RESEARCH.docx) |
+| **Старт (ресторан)** | [`START_RESTAURANT.md`](START_RESTAURANT.md) |
+| **Старт (недвижимость)** | [`START_REALESTATE.md`](START_REALESTATE.md) |
+| **Главные находки** | [`DOCS/exec_summary_horeca_realest.md`](DOCS/exec_summary_horeca_realest.md) |
+| **Всё про модули** | [`DOCS/integrated_analysis_2025.md`](DOCS/integrated_analysis_2025.md) |
+| **HoReCa детально** | [`DOCS/no_fluff_operations.md`](DOCS/no_fluff_operations.md) |
+| **Помощь по репо** | [`DOCS/navigation_guide.md`](DOCS/navigation_guide.md) |
+| **Модули (ROI)** | [`RESOURCES/8_MODULES_ROI_MATRIX.csv`](RESOURCES/8_MODULES_ROI_MATRIX.csv) |
+| **Инструменты** | [`RESOURCES/TOOLS_STACK.json`](RESOURCES/TOOLS_STACK.json) |
+| **План ресторана** | [`QUICK_START/90_DAYS_RESTAURANT.md`](QUICK_START/90_DAYS_RESTAURANT.md) |
+| **План недвижимости** | [`QUICK_START/90_DAYS_REALTOR.md`](QUICK_START/90_DAYS_REALTOR.md) |
+| **Кейсы компаний** | [`CASE_STUDIES/`](CASE_STUDIES/) папка |
+| **Ошибки других** | [`CASE_STUDIES/FAILCASES.md`](CASE_STUDIES/FAILCASES.md) |
 
 ---
 
@@ -115,7 +119,7 @@
 
 ```
 1. Читай эту страницу (5 мин) ← ТЫ ЗДЕСЬ
-2. Открой 1_EXECUTIVE_SUMMARY.md (10 мин)
+2. Открой DOCS/exec_summary_horeca_realest.md (10 мин)
 3. Открой RESOURCES/8_MODULES_ROI_MATRIX.csv (5 мин)
 4. Выбери свой модуль и смотри инструменты
 5. ГОТОВО! Знаешь что внедрять ✅

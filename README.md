@@ -41,15 +41,18 @@ marketing2025/
 │
 ├── README.md (этот файл)
 ├── LICENSE.md
-├── gitignore
+├── .gitignore
 ├── 0_START_HERE.md
+├── START_RESTAURANT.md
+├── START_REALESTATE.md
 │
 ├── 📚 DOCS/
 │   ├── exec_summary_horeca_realest.md
 │   ├── integrated_analysis_2025.md
 │   ├── no_fluff_operations.md
 │   ├── navigation_guide.md
-│   └── HORECA_Katalog_2025.md
+│   ├── HORECA_Katalog_2025.md
+│   └── *.docx, *.pdf (исходники)
 │
 ├── 📊 RESOURCES/
 │   ├── 8_MODULES_ROI_MATRIX.csv
@@ -96,7 +99,7 @@ marketing2025/
 ## 🔍 КАК НАЙТИ ТО, ЧТО НУЖНО
 
 ### "Как начать внедрение?"
-→ `QUICK_START/90_DAYS_RESTAURANT.md` или `90_DAYS_REALTOR.md`
+→ `START_RESTAURANT.md` или `START_REALESTATE.md`
 
 ### "Какой модуль выбрать?"
 → `RESOURCES/8_MODULES_ROI_MATRIX.csv`
@@ -137,7 +140,7 @@ cd marketing2025
 ```
 
 ### 2️⃣ Выбери уровень чтения
-- **5 мин:** `0_START_HERE.md` → `DOCS/exec_summary_horeca_realest.md`
+- **5 мин:** `0_START_HERE.md` → `START_RESTAURANT.md` или `START_REALESTATE.md`
 - **30 мин:** Добавь `DOCS/integrated_analysis_2025.md`
 - **2 часа:** Добавь `DOCS/no_fluff_operations.md`
 - **4 часа:** Добавь `CASE_STUDIES/` и `RESOURCES/`
