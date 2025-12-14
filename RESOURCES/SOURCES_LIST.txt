@@ -1,0 +1,30 @@
+═══════════════════════════════════════════════
+КАТЕГОРИЯ 1: ИССЛЕДОВАНИЯ И ОТЧЁТЫ
+═══════════════════════════════════════════════
+1. Deloitte 2025: AI в ресторанах — (ссылка не указана в репо) — «3 волны внедрения», 70% пилотируют AI для loyalty, 82% планируют увеличить спенд (DOCS/no_fluff_operations.md).
+2. Reuters: Starbucks rolls out AI inventory counting (2025) — https://www.reuters.com/business/starbucks-rolls-out-ai-inventory-counting-2025-09-03/ — данные о rollout и частоте инвентаризации (DOCS/no_fluff_operations.md).
+3. Railwaymen 2025: AI Inventory Management in Restaurants — https://railwaymen.org/blog/ai-inventory-management-in-restaurants — цифры про -20% food waste и -15–20% over-ordering (DOCS/no_fluff_operations.md).
+4. Newo.ai 2025: AI in Restaurants Reshaping Industry — https://newo.ai/insights/ai-in-restaurants-how-smart-technology-is-transforming-the-industry/ — обзор по personalization, forecasting, labor optimization (DOCS/no_fluff_operations.md).
+
+═══════════════════════════════════════════════
+КАТЕГОРИЯ 2: КОМПАНИИ И КЕЙСЫ
+═══════════════════════════════════════════════
+1. McDonald's Virtual AI Manager (Jan 2025) — https://digitaldefynd.com/IQ/mcdonalds-using-ai-case-study/ — edge computing, 250 signals/sec, <90ms response, +$65k/year per store (DOCS/no_fluff_operations.md).
+2. Starbucks DeepBrew (персонализация) — (ссылка не указана в репо) — кейс по персональным рекомендациям и росту среднего чека (CASE_STUDIES/STARBUCKS_DEEPBREW.md).
+3. Starbucks AI Inventory (2025 rollout) — https://www.reuters.com/business/starbucks-rolls-out-ai-inventory-counting-2025-09-03/ — инвентаризация 1×/нед → 8×/нед (DOCS/no_fluff_operations.md; DOCS/integrated_analysis_2025.md).
+4. Wendy’s Voice AI (Drive-thru) — (ссылка не указана в репо) — метрики по скорости, точности и lost orders (CASE_STUDIES/WENDYS_VOICE_AI.md; DOCS/integrated_analysis_2025.md).
+5. Yum! Brands (KFC, Taco Bell, Pizza Hut) + NVIDIA / Byte by Yum! — https://www.yum.com/wps/portal/yumbrands/Yumbrands/news/press-releases/ — платформа и масштабирование на рестораны (DOCS/no_fluff_operations.md).
+6. DoorDash AI Tools — https://about.doordash.com/en-us/news/doordash-unveils-ai-powered-tools-to-enhance-online-menus-and-streamline-merchant-operations — заявленные +44% sales от photo/description AI (DOCS/no_fluff_operations.md; DOCS/integrated_analysis_2025.md).
+7. Zillow Virtual Staging / VR Tours — (ссылка не указана в репо) — кейс по просмотрам, заявкам и ускорению сделки (CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md; DOCS/integrated_analysis_2025.md).
+8. Matterport (3D scanning) — (ссылка не указана в репо) — инструмент для создания 3D/VR туров (CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md; DOCS/integrated_analysis_2025.md).
+9. Chipotle Ava Cado (найм) — (ссылка не указана в репо) — найм 8 дней → 4 дня, поток соискателей +100% (DOCS/integrated_analysis_2025.md).
+10. Winnow Solutions / Hilton Rotterdam — (ссылка не указана в репо) — -25% пищевых отходов за 8 месяцев (DOCS/integrated_analysis_2025.md).
+11. Sweetgreen (Infinite Kitchen) — (ссылка не указана в репо) — роботы + AI для стандартизации качества и снижения отходов (DOCS/integrated_analysis_2025.md).
+12. Keller Williams (conversion) — (ссылка не указана в репо) — лид→сделка 0.8% → 1.3% (DOCS/integrated_analysis_2025.md).
+13. Domino’s (engagement) — (ссылка не указана в репо) — +23% engagement после обновления приложения с AI (DOCS/integrated_analysis_2025.md).
+
+═══════════════════════════════════════════════
+КАТЕГОРИЯ 3: МЕТОДОЛОГИИ / ПОДХОДЫ
+═══════════════════════════════════════════════
+1. Sid Bharath: Vibe Coding SaaS MVPs (2025) — https://www.siddharthbharath.com/vibe-coding-saas-mvps-guide/ — процесс PRD → Cursor/Lovable → MVP → feedback loop (DOCS/no_fluff_operations.md).
+

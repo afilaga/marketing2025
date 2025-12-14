@@ -1,0 +1,237 @@
+{
+  "Voice AI": {
+    "roi": "300%+",
+    "payback_period": "4-6 months",
+    "complexity": "Medium",
+    "investment": "$500-2000",
+    "key_metrics": [
+      {
+        "metric": "Lost calls rate",
+        "target": "-50% (пример из integrated_analysis_2025.md)",
+        "measurement": "lost_calls / total_calls по логам телефонии/Voice AI"
+      },
+      {
+        "metric": "Order accuracy",
+        "target": "≥96% (пример из CASE_STUDIES/WENDYS_VOICE_AI.md)",
+        "measurement": "correct_orders / total_orders (QA выборкой + жалобы/возвраты)"
+      },
+      {
+        "metric": "Time per order",
+        "target": "-67% (3 мин → 1 мин, CASE_STUDIES/WENDYS_VOICE_AI.md)",
+        "measurement": "среднее время от начала диалога до отправки заказа в POS"
+      },
+      {
+        "metric": "Revenue impact per location",
+        "target": "+$65k–100k/год (integrated_analysis_2025.md)",
+        "measurement": "инкрементальная выручка (A/B по сменам/дням) с контролем сезонности"
+      },
+      {
+        "metric": "Customer satisfaction",
+        "target": "≥8.5/10 (пример из CASE_STUDIES/WENDYS_VOICE_AI.md)",
+        "measurement": "оценки после обслуживания + NPS/опросы в приложении"
+      }
+    ]
+  },
+  "Photo AI": {
+    "roi": "1800%+",
+    "payback_period": "1-2 weeks",
+    "complexity": "Low",
+    "investment": "$100-300",
+    "key_metrics": [
+      {
+        "metric": "Delivery sales uplift",
+        "target": "+44% sales (DoorDash, DOCS/integrated_analysis_2025.md + DOCS/no_fluff_operations.md)",
+        "measurement": "выручка на delivery-платформах до/после (с нормализацией по трафику)"
+      },
+      {
+        "metric": "Orders growth on delivery",
+        "target": "+40-50% к заказам (DOCS/integrated_analysis_2025.md)",
+        "measurement": "orders/day по платформам доставки: baseline vs период после обновления фото/описаний"
+      },
+      {
+        "metric": "Photo quality improvement",
+        "target": "+44% better (RESOURCES/8_MODULES_ROI_MATRIX.csv)",
+        "measurement": "оценка фото по рубрике (свет/резкость/композиция) или score платформы"
+      },
+      {
+        "metric": "Time to update menu assets",
+        "target": "≤ 1 день на обновление витрины",
+        "measurement": "время от получения исходных фото до публикации на всех платформах"
+      }
+    ]
+  },
+  "Inventory Forecast": {
+    "roi": "100-200%",
+    "payback_period": "2-3 months",
+    "complexity": "Medium",
+    "investment": "$300-1000",
+    "key_metrics": [
+      {
+        "metric": "Food waste reduction",
+        "target": "-20% (Railwaymen, DOCS/no_fluff_operations.md) / -25% (Winnow, DOCS/integrated_analysis_2025.md)",
+        "measurement": "waste_cost / food_purchases и/или кг списаний по категориям"
+      },
+      {
+        "metric": "COGS improvement",
+        "target": "-20-30% себестоимости (DOCS/integrated_analysis_2025.md)",
+        "measurement": "COGS% = (food_cost / revenue) × 100 до/после"
+      },
+      {
+        "metric": "Inventory count frequency",
+        "target": "1×/нед → 8×/нед (Starbucks, DOCS/integrated_analysis_2025.md + DOCS/no_fluff_operations.md)",
+        "measurement": "inventory_counts_per_week по журналу инвентаризаций"
+      },
+      {
+        "metric": "Over-ordering reduction",
+        "target": "-15-20% (Railwaymen, DOCS/no_fluff_operations.md)",
+        "measurement": "отклонение закупок от фактического спроса (покупки − продажи по себестоимости)"
+      }
+    ]
+  },
+  "Crew Scheduling": {
+    "roi": "150%+",
+    "payback_period": "2-3 months",
+    "complexity": "Medium",
+    "investment": "$400-1200",
+    "key_metrics": [
+      {
+        "metric": "Labor cost savings",
+        "target": "5-10% фонда оплаты (DOCS/integrated_analysis_2025.md + RESOURCES/8_MODULES_ROI_MATRIX.csv)",
+        "measurement": "labor_cost / revenue и/или labor_cost абсолютом по неделям"
+      },
+      {
+        "metric": "Manager scheduling time",
+        "target": "3 часа/нед → 30 минут (DOCS/integrated_analysis_2025.md)",
+        "measurement": "time-tracking менеджера на задачи планирования"
+      },
+      {
+        "metric": "Hiring cycle time",
+        "target": "8 дней → 4 дня (Chipotle Ava Cado, DOCS/integrated_analysis_2025.md)",
+        "measurement": "days from application to first shift по ATS/HR журналу"
+      },
+      {
+        "metric": "Training / error reduction",
+        "target": "меньше ошибок и быстрее onboarding (DOCS/integrated_analysis_2025.md)",
+        "measurement": "кол-во ошибок/возвратов/жалоб на 100 заказов + время до самостоятельной смены"
+      }
+    ]
+  },
+  "Vibe Coding": {
+    "roi": "300%+",
+    "payback_period": "1-4 weeks",
+    "complexity": "Low",
+    "investment": "$100-500",
+    "key_metrics": [
+      {
+        "metric": "Experiment ROI",
+        "target": ">300% для масштабирования (DOCS/integrated_analysis_2025.md)",
+        "measurement": "incremental_profit / experiment_cost по каждому эксперименту"
+      },
+      {
+        "metric": "Time-to-launch experiment",
+        "target": "-60% времени запуска акций (DOCS/integrated_analysis_2025.md)",
+        "measurement": "время от идеи до деплоя лендинга/квиза (часы)"
+      },
+      {
+        "metric": "Landing/quiz conversion",
+        "target": "15% (пример таблицы экспериментов, DOCS/integrated_analysis_2025.md)",
+        "measurement": "signups_or_orders / sessions (аналитика лендинга)"
+      },
+      {
+        "metric": "Repeat rate uplift",
+        "target": "40% (пример таблицы экспериментов, DOCS/integrated_analysis_2025.md)",
+        "measurement": "repeat_orders / cohort_size (по CRM/лояльности)"
+      },
+      {
+        "metric": "Campaign sales uplift",
+        "target": "+118% дневных продаж (KFC Netherlands, DOCS/integrated_analysis_2025.md)",
+        "measurement": "продажи в дни кампании vs baseline по тем же дням недели"
+      }
+    ]
+  },
+  "VR Tours": {
+    "roi": "500%+",
+    "payback_period": "1-2 deals",
+    "complexity": "Low",
+    "investment": "$250-500",
+    "key_metrics": [
+      {
+        "metric": "Views per listing",
+        "target": "+3x (RESOURCES/8_MODULES_ROI_MATRIX.csv) / +200% (CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md)",
+        "measurement": "views_per_listing по аналитике площадок/сайта"
+      },
+      {
+        "metric": "Showing requests",
+        "target": "+200% (CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md)",
+        "measurement": "кол-во заявок/звонков на показы на 1 объект"
+      },
+      {
+        "metric": "Time to close",
+        "target": "-37% (35 → 22 дня, CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md)",
+        "measurement": "median days from first inquiry to close по CRM"
+      },
+      {
+        "metric": "Days on market",
+        "target": "-38% (45 → 28 дней, CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md)",
+        "measurement": "DOM: дни от публикации до сделки/снятия"
+      },
+      {
+        "metric": "Sale price premium",
+        "target": "+$7k (DOCS/integrated_analysis_2025.md) / +6.25% ($320k → $340k, CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md)",
+        "measurement": "цена сделки vs сопоставимые объекты без VR/staging (компаратив)"
+      }
+    ]
+  },
+  "CRM + Workflows": {
+    "roi": "150-250%",
+    "payback_period": "2-3 months",
+    "complexity": "Medium",
+    "investment": "$200-800",
+    "key_metrics": [
+      {
+        "metric": "Lead → deal conversion",
+        "target": "0.8% → 1.3% (Keller Williams, DOCS/integrated_analysis_2025.md)",
+        "measurement": "deals_closed / leads_created по CRM за одинаковые периоды"
+      },
+      {
+        "metric": "Sales cycle duration",
+        "target": "-30% (RESOURCES/8_MODULES_ROI_MATRIX.csv)",
+        "measurement": "median days от первого касания до сделки по CRM"
+      },
+      {
+        "metric": "LTV uplift",
+        "target": "+25-30% (DOCS/integrated_analysis_2025.md)",
+        "measurement": "12-месячная выручка на клиента (cohort analysis) до/после"
+      },
+      {
+        "metric": "Loyalty transaction share",
+        "target": "≥50% транзакций (Starbucks Rewards, DOCS/integrated_analysis_2025.md)",
+        "measurement": "loyalty_transactions / total_transactions"
+      }
+    ]
+  },
+  "Content Generation": {
+    "roi": "400%",
+    "payback_period": "2-3 weeks",
+    "complexity": "Low",
+    "investment": "$50-200",
+    "key_metrics": [
+      {
+        "metric": "Content production speed",
+        "target": "10x faster (RESOURCES/8_MODULES_ROI_MATRIX.csv)",
+        "measurement": "кол-во контент-единиц (посты/описания/креативы) в неделю на 1 сотрудника"
+      },
+      {
+        "metric": "Time saved",
+        "target": "10-15 часов/неделю (DOCS/integrated_analysis_2025.md)",
+        "measurement": "time-tracking по задачам контента до/после"
+      },
+      {
+        "metric": "Engagement uplift",
+        "target": "+23% (Domino's, DOCS/integrated_analysis_2025.md)",
+        "measurement": "engagement_rate (CTR/лайки/сохранения) по одинаковым форматам контента"
+      }
+    ]
+  }
+}
+

@@ -21,13 +21,13 @@
 ## 📖 БЫСТРЫЙ СТАРТ
 
 ### 🟢 LEVEL 1 (5 минут)
-→ Открой: `DOCS/1_EXECUTIVE_SUMMARY.md`
+→ Открой: `0_START_HERE.md`
 
 ### 🟡 LEVEL 2 (30 минут)
-→ Открой: `DOCS/README.md` + выбери свой модуль из `DOCS/2_INTEGRATED_ANALYSIS.md`
+→ Открой: `DOCS/exec_summary_horeca_realest.md` + выбери свой модуль из `DOCS/integrated_analysis_2025.md`
 
 ### 🟠 LEVEL 3 (1.5-2 часа)
-→ Прочитай: `DOCS/2_INTEGRATED_ANALYSIS.md` полностью
+→ Прочитай: `DOCS/integrated_analysis_2025.md` полностью
 
 ### 🔴 LEVEL 4 (3-4 часа)
 → Прочитай: ВСЕ ДОКУМЕНТЫ + источники
@@ -40,16 +40,16 @@
 marketing2025/
 │
 ├── README.md (этот файл)
-├── LICENSE
-├── .gitignore
+├── LICENSE.md
+├── gitignore
+├── 0_START_HERE.md
 │
 ├── 📚 DOCS/
-│   ├── 0_START_HERE.md
-│   ├── 1_EXECUTIVE_SUMMARY.md
-│   ├── 2_INTEGRATED_ANALYSIS.md
-│   ├── 3_OPERATIONS_LAYER.md
-│   ├── 4_NAVIGATION_GUIDE.md
-│   └── 5_SOURCE_RESEARCH.docx
+│   ├── exec_summary_horeca_realest.md
+│   ├── integrated_analysis_2025.md
+│   ├── no_fluff_operations.md
+│   ├── navigation_guide.md
+│   └── HORECA_Katalog_2025.md
 │
 ├── 📊 RESOURCES/
 │   ├── 8_MODULES_ROI_MATRIX.csv
@@ -71,12 +71,7 @@ marketing2025/
 │   ├── ZILLOW_VIRTUAL_STAGING.md
 │   ├── KFC_GAMIFICATION.md
 │   └── FAILCASES.md
-│
-└── 📝 TEMPLATES/
-    ├── 90_DAY_IMPLEMENTATION_TEMPLATE.md
-    ├── ROI_CALCULATION_TEMPLATE.md
-    ├── TEAM_TRAINING_DECK.md
-    └── INVESTOR_PITCH_TEMPLATE.md
+
 ```
 
 ---
@@ -116,7 +111,7 @@ marketing2025/
 → `RESOURCES/SOURCES_LIST.txt`
 
 ### "Как читать этот репо?"
-→ `DOCS/4_NAVIGATION_GUIDE.md`
+→ `DOCS/navigation_guide.md`
 
 ---
 
@@ -142,9 +137,9 @@ cd marketing2025
 ```
 
 ### 2️⃣ Выбери уровень чтения
-- **5 мин:** `DOCS/0_START_HERE.md` → `DOCS/1_EXECUTIVE_SUMMARY.md`
-- **30 мин:** Добавь `DOCS/2_INTEGRATED_ANALYSIS.md`
-- **2 часа:** Добавь `DOCS/3_OPERATIONS_LAYER.md`
+- **5 мин:** `0_START_HERE.md` → `DOCS/exec_summary_horeca_realest.md`
+- **30 мин:** Добавь `DOCS/integrated_analysis_2025.md`
+- **2 часа:** Добавь `DOCS/no_fluff_operations.md`
 - **4 часа:** Добавь `CASE_STUDIES/` и `RESOURCES/`
 
 ### 3️⃣ Выбери свой сценарий
@@ -174,32 +169,32 @@ cd marketing2025
 
 ## 📝 СОДЕРЖАНИЕ ДОКУМЕНТОВ
 
-### `DOCS/0_START_HERE.md`
+### `0_START_HERE.md`
 Начало всегда здесь! Если первый раз в репо.
 
-### `DOCS/1_EXECUTIVE_SUMMARY.md`
+### `DOCS/exec_summary_horeca_realest.md`
 - Главные находки
 - Матрица 8 модулей
 - План на 90 дней
 - **Время:** 10-15 мин
 
-### `DOCS/2_INTEGRATED_ANALYSIS.md`
+### `DOCS/integrated_analysis_2025.md`
 - Все 8 модулей детально
 - Инструменты и примеры
 - Live примеры с ROI
 - **Время:** 30-40 мин
 
-### `DOCS/3_OPERATIONS_LAYER.md`
+### `DOCS/no_fluff_operations.md`
 - 5 модулей для HoReCa максимально
 - Step-by-step внедрение
 - Чеклисты 30/60/90 дней
 - **Время:** 40-50 мин
 
-### `DOCS/4_NAVIGATION_GUIDE.md`
+### `DOCS/navigation_guide.md`
 Справочник по использованию всего репо.
 
-### `DOCS/5_SOURCE_RESEARCH.docx`
-Исходное исследование (90+ стр) с 65+ источниками.
+### Исходные материалы (PDF/DOCX)
+В корне репо лежат исходные PDF/DOCX версии исследования (для печати/шеринга).
 
 ---
 
@@ -258,9 +253,9 @@ Creative Commons BY-NC-SA 4.0
 # 1. Clone
 git clone https://github.com/afilaga/marketing2025.git
 
-# 2. Открой стартовый файл
-cd marketing2025
-cat DOCS/0_START_HERE.md
+	# 2. Открой стартовый файл
+	cd marketing2025
+	cat 0_START_HERE.md
 
 # 3. Выбери свой путь
 
@@ -269,6 +264,6 @@ cat DOCS/0_START_HERE.md
 
 ---
 
-**Готов? Читай `DOCS/0_START_HERE.md` и начинай! 🚀**
+**Готов? Читай `0_START_HERE.md` и начинай! 🚀**
 
 *"Если не считаешь ROI — зачем вкладываешь?" — No Fluff Systems Manifesto*
