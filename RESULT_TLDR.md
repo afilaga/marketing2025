@@ -95,3 +95,4 @@ Failcases: `CASE_STUDIES/FAILCASES.md`.
 
 Дальше подробности/цифры: `RESEARCH_ANSWERS.md` и кейсы в `CASE_STUDIES/`.
 
+Если ты HoReCa и хочешь “по формату бизнеса” (доставка/бистро/ресторан): `HORECA_APPLY_NOW.md`.
