@@ -4,9 +4,9 @@
 
 ## Быстрый маршрут
 
-- **5 минут:** `DOCS/exec_summary_horeca_realest.md`
-- **30 минут:** `DOCS/integrated_analysis_2025.md` (фокус: #6, #7, #8 + #5)
-- **1–2 часа:** `DOCS/integrated_analysis_2025.md` полностью
+- **5 минут:** `docs/exec_summary_horeca_realest.md`
+- **30 минут:** `docs/integrated_analysis_2025.md` (фокус: #6, #7, #8 + #5)
+- **1–2 часа:** `docs/integrated_analysis_2025.md` полностью
 
 ## 90 дней (готовый план)
 
@@ -28,4 +28,3 @@ ROI/Payback/сложность: `RESOURCES/8_MODULES_ROI_MATRIX.csv`
 
 - Zillow (VR tours + staging): `CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md`
 - Ошибки и провалы: `CASE_STUDIES/FAILCASES.md`
-

@@ -9,22 +9,22 @@
 ## 🎯 ВЫБЕРИ СВОЙ ПУТЬ
 
 ### 🟢 У ТЕБЯ ЕСТЬ 5 МИНУТ?
-→ Открой: [`DOCS/exec_summary_horeca_realest.md`](DOCS/exec_summary_horeca_realest.md)
+→ Открой: [`docs/exec_summary_horeca_realest.md`](docs/exec_summary_horeca_realest.md)
 - Главные находки
 - Матрица 8 модулей
 - План на 90 дней
 - **ГОТОВО в 10-15 мин**
 
 ### 🟡 У ТЕБЯ ЕСТЬ 30 МИНУТ?
-→ Открой: [`DOCS/integrated_analysis_2025.md`](DOCS/integrated_analysis_2025.md)
+→ Открой: [`docs/integrated_analysis_2025.md`](docs/integrated_analysis_2025.md)
 - Всё про каждый модуль
 - Инструменты и ROI
 - Практические примеры
 - **ГОТОВО в 30-40 мин**
 
 ### 🟠 У ТЕБЯ ЕСТЬ 1.5-2 ЧАСА?
-→ Для ресторана: [`DOCS/no_fluff_operations.md`](DOCS/no_fluff_operations.md)  
-→ Для недвижимости: [`DOCS/integrated_analysis_2025.md`](DOCS/integrated_analysis_2025.md) (разделы #6–#8)  
+→ Для ресторана: [`docs/no_fluff_operations.md`](docs/no_fluff_operations.md)  
+→ Для недвижимости: [`docs/integrated_analysis_2025.md`](docs/integrated_analysis_2025.md) (разделы #6–#8)  
 - Максимально детально
 - 5 модулей для HoReCa + практический чек‑лист
 - Чек-листы и примеры
@@ -102,10 +102,10 @@
 |-----------|-----------|
 | **Старт (ресторан)** | [`START_RESTAURANT.md`](START_RESTAURANT.md) |
 | **Старт (недвижимость)** | [`START_REALESTATE.md`](START_REALESTATE.md) |
-| **Главные находки** | [`DOCS/exec_summary_horeca_realest.md`](DOCS/exec_summary_horeca_realest.md) |
-| **Всё про модули** | [`DOCS/integrated_analysis_2025.md`](DOCS/integrated_analysis_2025.md) |
-| **HoReCa детально** | [`DOCS/no_fluff_operations.md`](DOCS/no_fluff_operations.md) |
-| **Помощь по репо** | [`DOCS/navigation_guide.md`](DOCS/navigation_guide.md) |
+| **Главные находки** | [`docs/exec_summary_horeca_realest.md`](docs/exec_summary_horeca_realest.md) |
+| **Всё про модули** | [`docs/integrated_analysis_2025.md`](docs/integrated_analysis_2025.md) |
+| **HoReCa детально** | [`docs/no_fluff_operations.md`](docs/no_fluff_operations.md) |
+| **Помощь по репо** | [`docs/navigation_guide.md`](docs/navigation_guide.md) |
 | **Модули (ROI)** | [`RESOURCES/8_MODULES_ROI_MATRIX.csv`](RESOURCES/8_MODULES_ROI_MATRIX.csv) |
 | **Инструменты** | [`RESOURCES/TOOLS_STACK.json`](RESOURCES/TOOLS_STACK.json) |
 | **План ресторана** | [`QUICK_START/90_DAYS_RESTAURANT.md`](QUICK_START/90_DAYS_RESTAURANT.md) |
@@ -119,7 +119,7 @@
 
 ```
 1. Читай эту страницу (5 мин) ← ТЫ ЗДЕСЬ
-2. Открой DOCS/exec_summary_horeca_realest.md (10 мин)
+2. Открой docs/exec_summary_horeca_realest.md (10 мин)
 3. Открой RESOURCES/8_MODULES_ROI_MATRIX.csv (5 мин)
 4. Выбери свой модуль и смотри инструменты
 5. ГОТОВО! Знаешь что внедрять ✅

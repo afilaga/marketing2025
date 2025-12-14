@@ -4,9 +4,9 @@
 
 ## Быстрый маршрут
 
-- **5 минут:** `DOCS/exec_summary_horeca_realest.md`
-- **30 минут:** `DOCS/integrated_analysis_2025.md` (модули #1, #2, #3, #4, #5)
-- **1–2 часа (самое практичное):** `DOCS/no_fluff_operations.md`
+- **5 минут:** `docs/exec_summary_horeca_realest.md`
+- **30 минут:** `docs/integrated_analysis_2025.md` (модули #1, #2, #3, #4, #5)
+- **1–2 часа (самое практичное):** `docs/no_fluff_operations.md`
 
 ## 90 дней (готовый план)
 
@@ -31,4 +31,3 @@ ROI/Payback/сложность: `RESOURCES/8_MODULES_ROI_MATRIX.csv`
 - Wendy’s (Voice AI): `CASE_STUDIES/WENDYS_VOICE_AI.md`
 - KFC (gamification): `CASE_STUDIES/KFC_GAMIFICATION.md`
 - Ошибки и провалы: `CASE_STUDIES/FAILCASES.md`
-

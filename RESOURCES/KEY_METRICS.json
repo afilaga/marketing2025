@@ -40,12 +40,12 @@
     "key_metrics": [
       {
         "metric": "Delivery sales uplift",
-        "target": "+44% sales (DoorDash, DOCS/integrated_analysis_2025.md + DOCS/no_fluff_operations.md)",
+        "target": "+44% sales (DoorDash, docs/integrated_analysis_2025.md + docs/no_fluff_operations.md)",
         "measurement": "выручка на delivery-платформах до/после (с нормализацией по трафику)"
       },
       {
         "metric": "Orders growth on delivery",
-        "target": "+40-50% к заказам (DOCS/integrated_analysis_2025.md)",
+        "target": "+40-50% к заказам (docs/integrated_analysis_2025.md)",
         "measurement": "orders/day по платформам доставки: baseline vs период после обновления фото/описаний"
       },
       {
@@ -68,22 +68,22 @@
     "key_metrics": [
       {
         "metric": "Food waste reduction",
-        "target": "-20% (Railwaymen, DOCS/no_fluff_operations.md) / -25% (Winnow, DOCS/integrated_analysis_2025.md)",
+        "target": "-20% (Railwaymen, docs/no_fluff_operations.md) / -25% (Winnow, docs/integrated_analysis_2025.md)",
         "measurement": "waste_cost / food_purchases и/или кг списаний по категориям"
       },
       {
         "metric": "COGS improvement",
-        "target": "-20-30% себестоимости (DOCS/integrated_analysis_2025.md)",
+        "target": "-20-30% себестоимости (docs/integrated_analysis_2025.md)",
         "measurement": "COGS% = (food_cost / revenue) × 100 до/после"
       },
       {
         "metric": "Inventory count frequency",
-        "target": "1×/нед → 8×/нед (Starbucks, DOCS/integrated_analysis_2025.md + DOCS/no_fluff_operations.md)",
+        "target": "1×/нед → 8×/нед (Starbucks, docs/integrated_analysis_2025.md + docs/no_fluff_operations.md)",
         "measurement": "inventory_counts_per_week по журналу инвентаризаций"
       },
       {
         "metric": "Over-ordering reduction",
-        "target": "-15-20% (Railwaymen, DOCS/no_fluff_operations.md)",
+        "target": "-15-20% (Railwaymen, docs/no_fluff_operations.md)",
         "measurement": "отклонение закупок от фактического спроса (покупки − продажи по себестоимости)"
       }
     ]
@@ -96,22 +96,22 @@
     "key_metrics": [
       {
         "metric": "Labor cost savings",
-        "target": "5-10% фонда оплаты (DOCS/integrated_analysis_2025.md + RESOURCES/8_MODULES_ROI_MATRIX.csv)",
+        "target": "5-10% фонда оплаты (docs/integrated_analysis_2025.md + RESOURCES/8_MODULES_ROI_MATRIX.csv)",
         "measurement": "labor_cost / revenue и/или labor_cost абсолютом по неделям"
       },
       {
         "metric": "Manager scheduling time",
-        "target": "3 часа/нед → 30 минут (DOCS/integrated_analysis_2025.md)",
+        "target": "3 часа/нед → 30 минут (docs/integrated_analysis_2025.md)",
         "measurement": "time-tracking менеджера на задачи планирования"
       },
       {
         "metric": "Hiring cycle time",
-        "target": "8 дней → 4 дня (Chipotle Ava Cado, DOCS/integrated_analysis_2025.md)",
+        "target": "8 дней → 4 дня (Chipotle Ava Cado, docs/integrated_analysis_2025.md)",
         "measurement": "days from application to first shift по ATS/HR журналу"
       },
       {
         "metric": "Training / error reduction",
-        "target": "меньше ошибок и быстрее onboarding (DOCS/integrated_analysis_2025.md)",
+        "target": "меньше ошибок и быстрее onboarding (docs/integrated_analysis_2025.md)",
         "measurement": "кол-во ошибок/возвратов/жалоб на 100 заказов + время до самостоятельной смены"
       }
     ]
@@ -124,27 +124,27 @@
     "key_metrics": [
       {
         "metric": "Experiment ROI",
-        "target": ">300% для масштабирования (DOCS/integrated_analysis_2025.md)",
+        "target": ">300% для масштабирования (docs/integrated_analysis_2025.md)",
         "measurement": "incremental_profit / experiment_cost по каждому эксперименту"
       },
       {
         "metric": "Time-to-launch experiment",
-        "target": "-60% времени запуска акций (DOCS/integrated_analysis_2025.md)",
+        "target": "-60% времени запуска акций (docs/integrated_analysis_2025.md)",
         "measurement": "время от идеи до деплоя лендинга/квиза (часы)"
       },
       {
         "metric": "Landing/quiz conversion",
-        "target": "15% (пример таблицы экспериментов, DOCS/integrated_analysis_2025.md)",
+        "target": "15% (пример таблицы экспериментов, docs/integrated_analysis_2025.md)",
         "measurement": "signups_or_orders / sessions (аналитика лендинга)"
       },
       {
         "metric": "Repeat rate uplift",
-        "target": "40% (пример таблицы экспериментов, DOCS/integrated_analysis_2025.md)",
+        "target": "40% (пример таблицы экспериментов, docs/integrated_analysis_2025.md)",
         "measurement": "repeat_orders / cohort_size (по CRM/лояльности)"
       },
       {
         "metric": "Campaign sales uplift",
-        "target": "+118% дневных продаж (KFC Netherlands, DOCS/integrated_analysis_2025.md)",
+        "target": "+118% дневных продаж (KFC Netherlands, docs/integrated_analysis_2025.md)",
         "measurement": "продажи в дни кампании vs baseline по тем же дням недели"
       }
     ]
@@ -177,7 +177,7 @@
       },
       {
         "metric": "Sale price premium",
-        "target": "+$7k (DOCS/integrated_analysis_2025.md) / +6.25% ($320k → $340k, CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md)",
+        "target": "+$7k (docs/integrated_analysis_2025.md) / +6.25% ($320k → $340k, CASE_STUDIES/ZILLOW_VIRTUAL_STAGING.md)",
         "measurement": "цена сделки vs сопоставимые объекты без VR/staging (компаратив)"
       }
     ]
@@ -190,7 +190,7 @@
     "key_metrics": [
       {
         "metric": "Lead → deal conversion",
-        "target": "0.8% → 1.3% (Keller Williams, DOCS/integrated_analysis_2025.md)",
+        "target": "0.8% → 1.3% (Keller Williams, docs/integrated_analysis_2025.md)",
         "measurement": "deals_closed / leads_created по CRM за одинаковые периоды"
       },
       {
@@ -200,12 +200,12 @@
       },
       {
         "metric": "LTV uplift",
-        "target": "+25-30% (DOCS/integrated_analysis_2025.md)",
+        "target": "+25-30% (docs/integrated_analysis_2025.md)",
         "measurement": "12-месячная выручка на клиента (cohort analysis) до/после"
       },
       {
         "metric": "Loyalty transaction share",
-        "target": "≥50% транзакций (Starbucks Rewards, DOCS/integrated_analysis_2025.md)",
+        "target": "≥50% транзакций (Starbucks Rewards, docs/integrated_analysis_2025.md)",
         "measurement": "loyalty_transactions / total_transactions"
       }
     ]
@@ -223,15 +223,14 @@
       },
       {
         "metric": "Time saved",
-        "target": "10-15 часов/неделю (DOCS/integrated_analysis_2025.md)",
+        "target": "10-15 часов/неделю (docs/integrated_analysis_2025.md)",
         "measurement": "time-tracking по задачам контента до/после"
       },
       {
         "metric": "Engagement uplift",
-        "target": "+23% (Domino's, DOCS/integrated_analysis_2025.md)",
+        "target": "+23% (Domino's, docs/integrated_analysis_2025.md)",
         "measurement": "engagement_rate (CTR/лайки/сохранения) по одинаковым форматам контента"
       }
     ]
   }
 }
-

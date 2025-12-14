@@ -24,13 +24,24 @@
 → Открой: `0_START_HERE.md`
 
 ### 🟡 LEVEL 2 (30 минут)
-→ Открой: `DOCS/exec_summary_horeca_realest.md` + выбери свой модуль из `DOCS/integrated_analysis_2025.md`
+→ Открой: `docs/exec_summary_horeca_realest.md` + выбери свой модуль из `docs/integrated_analysis_2025.md`
 
 ### 🟠 LEVEL 3 (1.5-2 часа)
-→ Прочитай: `DOCS/integrated_analysis_2025.md` полностью
+→ Прочитай: `docs/integrated_analysis_2025.md` полностью
 
 ### 🔴 LEVEL 4 (3-4 часа)
 → Прочитай: ВСЕ ДОКУМЕНТЫ + источники
+
+---
+
+## 🌐 GitHub Pages
+
+В репозитории есть простой лендинг для GitHub Pages в папке `docs/`.
+
+Как включить:
+- GitHub → **Settings** → **Pages**
+- **Build and deployment** → **Source**: **Deploy from a branch**
+- **Branch**: `main` → **/docs**
 
 ---
 
@@ -46,7 +57,7 @@ marketing2025/
 ├── START_RESTAURANT.md
 ├── START_REALESTATE.md
 │
-├── 📚 DOCS/
+├── 📚 docs/
 │   ├── exec_summary_horeca_realest.md
 │   ├── integrated_analysis_2025.md
 │   ├── no_fluff_operations.md
@@ -114,7 +125,7 @@ marketing2025/
 → `RESOURCES/SOURCES_LIST.txt`
 
 ### "Как читать этот репо?"
-→ `DOCS/navigation_guide.md`
+→ `docs/navigation_guide.md`
 
 ---
 
@@ -141,8 +152,8 @@ cd marketing2025
 
 ### 2️⃣ Выбери уровень чтения
 - **5 мин:** `0_START_HERE.md` → `START_RESTAURANT.md` или `START_REALESTATE.md`
-- **30 мин:** Добавь `DOCS/integrated_analysis_2025.md`
-- **2 часа:** Добавь `DOCS/no_fluff_operations.md`
+- **30 мин:** Добавь `docs/integrated_analysis_2025.md`
+- **2 часа:** Добавь `docs/no_fluff_operations.md`
 - **4 часа:** Добавь `CASE_STUDIES/` и `RESOURCES/`
 
 ### 3️⃣ Выбери свой сценарий
@@ -175,29 +186,29 @@ cd marketing2025
 ### `0_START_HERE.md`
 Начало всегда здесь! Если первый раз в репо.
 
-### `DOCS/exec_summary_horeca_realest.md`
+### `docs/exec_summary_horeca_realest.md`
 - Главные находки
 - Матрица 8 модулей
 - План на 90 дней
 - **Время:** 10-15 мин
 
-### `DOCS/integrated_analysis_2025.md`
+### `docs/integrated_analysis_2025.md`
 - Все 8 модулей детально
 - Инструменты и примеры
 - Live примеры с ROI
 - **Время:** 30-40 мин
 
-### `DOCS/no_fluff_operations.md`
+### `docs/no_fluff_operations.md`
 - 5 модулей для HoReCa максимально
 - Step-by-step внедрение
 - Чеклисты 30/60/90 дней
 - **Время:** 40-50 мин
 
-### `DOCS/navigation_guide.md`
+### `docs/navigation_guide.md`
 Справочник по использованию всего репо.
 
 ### Исходные материалы (PDF/DOCX)
-Исходные PDF/DOCX версии исследования лежат в `DOCS/` (для печати/шеринга).
+Исходные PDF/DOCX версии исследования лежат в `docs/` (для печати/шеринга).
 
 ---
 
